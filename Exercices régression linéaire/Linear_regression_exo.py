@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 def data0() :
 
-    file_path = '/Users/thomasgibelin/PycharmProjects/DUS4/data/data_0.csv'
+    file_path = '/Users/thomasgibelin/PycharmProjects/DUS4/Exercices régression linéaire/data/data_0.csv'
     data = np.loadtxt(file_path)
     data = np.array(data)
 
@@ -27,7 +27,7 @@ def data0() :
     plt.show()
 def data1() :
 
-    file_path = '/Users/thomasgibelin/PycharmProjects/DUS4/data/data_1.csv'
+    file_path = '/Users/thomasgibelin/PycharmProjects/DUS4/Exercices régression linéaire/data/data_1.csv'
     data = np.loadtxt(file_path)
     data = np.array(data)
 
@@ -51,7 +51,7 @@ def data1() :
     plt.show()
 def data2() :
 
-    file_path = '/Users/thomasgibelin/PycharmProjects/DUS4/data/data_2.csv'
+    file_path = '/Users/thomasgibelin/PycharmProjects/DUS4/Exercices régression linéaire/data/data_2.csv'
     data = np.loadtxt(file_path)
     data = np.array(data)
 
@@ -75,7 +75,7 @@ def data2() :
     plt.show()
 def data3() :
 
-    file_path = '/Users/thomasgibelin/PycharmProjects/DUS4/data/data_3.csv'
+    file_path = '/Users/thomasgibelin/PycharmProjects/DUS4/Exercices régression linéaire/data/data_3.csv'
     data = np.loadtxt(file_path)
     data = np.array(data)
 
